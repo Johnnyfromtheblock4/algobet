@@ -6,4 +6,14 @@
 
 body {
   font-family: "Cascadia Code", sans-serif;
+  background-color: black;
+  color: white;
+}
+
+.title {
+  color: #5c16e7;
+}
+
+.title-2 {
+  color: white;
 }
